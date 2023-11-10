@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "zmp_control",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GameControl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GameControl-Debug-83943d20a3341a921586.json",
+					"name" : "GameControl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GameControl_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GameControl_autogen-Debug-655efe2c742d9b327563.json",
+					"name" : "GameControl_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GameControl_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GameControl_autogen_timestamp_deps-Debug-e4c707346033517d1598.json",
+					"name" : "GameControl_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HevCnt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HevCnt-Debug-5d3d7e0310366f9d9e7c.json",
+					"name" : "HevCnt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HevCnt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HevCnt_autogen-Debug-8971274b77966ebfd624.json",
+					"name" : "HevCnt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HevCnt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HevCnt_autogen_timestamp_deps-Debug-61dec4a6d84445d176da.json",
+					"name" : "HevCnt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RingBuffer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RingBuffer-Debug-ecacd526a69def4abfdb.json",
+					"name" : "RingBuffer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RingBuffer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RingBuffer_autogen-Debug-4e02f339805a1936ff06.json",
+					"name" : "RingBuffer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RingBuffer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RingBuffer_autogen_timestamp_deps-Debug-83155f197b76c6334108.json",
+					"name" : "RingBuffer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zmp_control::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zmp_control-Debug-28dca389cd9f52fcf340.json",
+					"name" : "zmp_control",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zmp_control_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zmp_control_autogen-Debug-50ee8c0c3bd02d4072c1.json",
+					"name" : "zmp_control_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zmp_control_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zmp_control_autogen_timestamp_deps-Debug-0d8698352976557a13a3.json",
+					"name" : "zmp_control_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/imdl/CLionProjects/zmp_control/cmake-build-debug",
+		"source" : "/home/imdl/CLionProjects/zmp_control"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
